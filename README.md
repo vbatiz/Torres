@@ -35,19 +35,28 @@ A123 <= C324? // existe una ruta hasta A123 desde C324?
 
 Y las respuestas a las preguntas iniciaran con (-) cuando no exista una ruta y (+) cuando exista una ruta, seguida por los nombres de las torres ordenadas de Torre inicial => Enlace1 => … => Enlacen => Torre final.
 
-####Ejemplo de archivo de entrada:
+#####Ejemplo de archivo de entrada:
 
 Culiacan1 -> Hermosillo2.
+
 Hermosillo2 -> Monterrey5.
+
 Culiacan1 => Monterrey5? // esta es una pregunta
+
 Guadalajara3 <- Hermosillo2.
+
 Guadalajara3 -> Guadalajara34. // enlace
+
 Guadalajara34 <= Culiacan1 ? #otra pregunta
+
 Mexico5 <- culiacan1. // este es un enlace
+
 Guadalajara34 => Hermosillo2? % tercera pregunta
+
 Mexico5 => hermosillo2? &una torre desconocida.
 
-####La salida para el archivo anterior sería:
+
+#####La salida para el archivo anterior sería:
 
 \+ Culiacan1 => Hermosillo2 => Monterrey5
 
