@@ -9,7 +9,7 @@ Materia: Tecnologías de Programación de la MCC del ITC
 #### Lista de entregables:
 1. El código fuente se encuentra en la carpeta: src\Torres (https://github.com/vbatiz/Torres/tree/master/src/pTorres)
 2. El Diagrama UML final: DiagramaUML.png 
-![alt text](https://github.com/vbatiz/BlackjackMV/blob/master/DiagramaUML.png)
+![alt text](https://github.com/vbatiz/Torres/blob/master/DiagramaUML.png)
 
 #### Descripción
 El presente proyecto es una implementación en Java del proyecto Redes de Comunicaciones utilizando Grafos. Esta desarrollado utilizando la consola como interfaz y utilizando el IDE IntelliJ IDEA Ultimate 2019.2.
