@@ -35,7 +35,7 @@ A123 <= C324? // existe una ruta hasta A123 desde C324?
 
 Y las respuestas a las preguntas iniciaran con (-) cuando no exista una ruta y (+) cuando exista una ruta, seguida por los nombres de las torres ordenadas de Torre inicial => Enlace1 => … => Enlacen => Torre final.
 
-#####Ejemplo de archivo de entrada:
+##### Ejemplo de archivo de entrada:
 
 Culiacan1 -> Hermosillo2.
 
@@ -56,7 +56,7 @@ Guadalajara34 => Hermosillo2? % tercera pregunta
 Mexico5 => hermosillo2? &una torre desconocida.
 
 
-#####La salida para el archivo anterior sería:
+##### La salida para el archivo anterior sería:
 
 \+ Culiacan1 => Hermosillo2 => Monterrey5
 
@@ -66,11 +66,11 @@ Mexico5 => hermosillo2? &una torre desconocida.
 
 \- Mexico5 => hermosillo2
 
-####Requisitos adicionales.
+#### Requisitos adicionales.
 
 Tu programa debe contener comentarios que documenten la estructura usada así como también, los nombres de los autores y comentarios que documenten el código.
 El programa debe llamarse Enlaces.java
 
-####Nota: 
+#### Nota: 
 Verifica que tu salida sea EXACTAMENTE igual a como se pide y los datos del archivo de entrada cumplan con las reglas definidas.
 <br>
