@@ -1,0 +1,14 @@
+Culiacan1 -> Hermosillo2.
+Hermosillo2 -> Monterrey5.
+Culiacan1 => Monterrey5? // esta es una pregunta
+Guadalajara3 <- Hermosillo2.
+Guadalajara3 -> Guadalajara34. // enlace
+Guadalajara34 <= Culiacan1 ? #otra pregunta
+Mexico5 <- culiacan1. // este es un enlace
+Guadalajara34 => Hermosillo2? % tercera pregunta
+Mexico5 => hermosillo2? &una torre desconocida.
+Empiezan mis pruebas
+//Culiacan1 => Monterrey5? // esta es una pregunta
+//Guadalajara3 -> Guadalajara34.
+//Culiacan2 => Monterrey4# // esta es una pregunta
+11111Culiacan1 - Hermosillo2.
